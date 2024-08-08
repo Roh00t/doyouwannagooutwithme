@@ -1,4 +1,2 @@
 # doyouwannagooutwithme
-[https://you.collegeek.com/](https://you.collegeek.com/)
-
-A website to invite your lover for a date 🥰
+[https://you.willyougoonadatewithme.com/](https://you.willyougoonadatewithme.com/)
